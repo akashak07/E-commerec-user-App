@@ -1,6 +1,6 @@
 # e_commerce
 
-A E-commerce applicaton made with flutter and firebase.This the customer app which can fetch data that are send by the vendors using vendor application both application use firebase as their backend!
+A E-commerce applicaton made with flutter and firebase.This is the customer app which can fetch data that are send by the vendors using vendor application both application use firebase as their backend!
 
 ![Alt text](register.jpg?raw=true "Registration Screen")
 ![Alt text](login.jpg?raw=true "Login Screen")
