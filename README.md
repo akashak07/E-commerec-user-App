@@ -1,6 +1,8 @@
 # e_commerce
 
-A new Flutter application.
+A E-commerce applicaton made with flutter and firebase.This the cutomer app which can fetch data that are send by the vendors using vendor application both application use firebase as their backend!
+
+
 
 ## Getting Started
 
